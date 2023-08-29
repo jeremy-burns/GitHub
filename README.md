@@ -1,2 +1,2 @@
 # Github
-This is the descriotion for the readme file.
+This is the description for the readme file.
